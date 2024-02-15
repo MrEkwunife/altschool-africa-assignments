@@ -9,6 +9,6 @@ Exercise:
 
 | Instruction | solution |
 | ----------- |  --------|
-| Submit the contents of /etc/passwd |
-| Submit the contents of /etc/group  |
-| Submit the contents of /etc/sudoers |
+| Submit the contents of /etc/passwd | ![screenshot of /etc/passwd](/img/etc_passwd.png) |
+| Submit the contents of /etc/group  | ![screenshot of /etc/group](/img/etc_group.png)   |
+| Submit the contents of /etc/sudoers | ![screenshot of /etc/sudoers](/img/etc_sudoers.png) |
